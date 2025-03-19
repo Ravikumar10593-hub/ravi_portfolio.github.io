@@ -2,6 +2,10 @@
 
 Follow my medium for such amazing projects : [Medium📓](https://medium.com/@ravikumar10593)
 
+## Folder Structure:
+
+![alt text](/assets/img/image.png)
+
 First, if you want to create a website you must be very clear with the purpose of the website and what type of people will be going to consume that website, so to answer both the question let’s take an example if you are a college student and want to create a portfolio that you can attract recruiters to hire you and make you stand out of the queue, this is why it is important to know your purpose and consumer.
 
 > **_NOTE:_**  Let’s stick with the portfolio example for this article
